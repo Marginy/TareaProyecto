@@ -1,0 +1,172 @@
+# depslib dependency file v1.0
+1383372219 source:c:\users\guillermo sandoval\documents\github\labsemana2animacion\bomba.cpp
+	"bomba.h"
+
+1383352795 c:\users\guillermo sandoval\documents\github\labsemana2animacion\bomba.h
+	"Enemygo.h"
+
+1383368300 c:\users\guillermo sandoval\documents\github\labsemana2animacion\enemygo.h
+	"SDL.h"
+	"SDL_image.h"
+	"Personaje.h"
+	<vector>
+
+1382747321 c:\users\guillermo sandoval\documents\github\labsemana2animacion\personaje.h
+	"SDL.h"
+	"SDL_image.h"
+	<string>
+	<vector>
+
+1383372347 source:c:\users\guillermo sandoval\documents\github\labsemana2animacion\cocodrilo.cpp
+	"Cocodrilo.h"
+
+1383370093 c:\users\guillermo sandoval\documents\github\labsemana2animacion\cocodrilo.h
+	"Enemygo.h"
+
+1383380017 source:c:\users\guillermo sandoval\documents\github\labsemana2animacion\enemygo.cpp
+	"Enemygo.h"
+
+1383368300 source:c:\users\guillermo sandoval\documents\github\labsemana2animacion\fantasmita.cpp
+	"Fantasmita.h"
+
+1383368300 c:\users\guillermo sandoval\documents\github\labsemana2animacion\fantasmita.h
+	"Enemygo.h"
+
+1383458845 source:c:\users\guillermo sandoval\documents\github\labsemana2animacion\main.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	<string>
+	<iostream>
+	<vector>
+	"Personaje.h"
+	"Enemygo.h"
+	"Fantasmita.h"
+	"bomba.h"
+	"Mina.h"
+	"Cocodrilo.h"
+	"SDL_mixer.h"
+
+1383369092 c:\users\guillermo sandoval\documents\github\labsemana2animacion\mina.h
+	"Enemygo.h"
+
+1383372156 source:c:\users\guillermo sandoval\documents\github\labsemana2animacion\mina.cpp
+	"Mina.h"
+
+1382746837 source:c:\users\guillermo sandoval\documents\github\labsemana2animacion\personaje.cpp
+	"Personaje.h"
+
+1383375819 source:g:\labsemana2animacion\bomba.cpp
+	"bomba.h"
+
+1383356395 g:\labsemana2animacion\bomba.h
+	"Enemygo.h"
+
+1383371900 g:\labsemana2animacion\enemygo.h
+	"SDL.h"
+	"SDL_image.h"
+	"Personaje.h"
+	<vector>
+
+1382750921 g:\labsemana2animacion\personaje.h
+	"SDL.h"
+	"SDL_image.h"
+	<string>
+	<vector>
+
+1383375947 source:g:\labsemana2animacion\cocodrilo.cpp
+	"Cocodrilo.h"
+
+1383373693 g:\labsemana2animacion\cocodrilo.h
+	"Enemygo.h"
+
+1383383617 source:g:\labsemana2animacion\enemygo.cpp
+	"Enemygo.h"
+
+1383371900 source:g:\labsemana2animacion\fantasmita.cpp
+	"Fantasmita.h"
+
+1383371900 g:\labsemana2animacion\fantasmita.h
+	"Enemygo.h"
+
+1383614639 source:g:\labsemana2animacion\main.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	<string>
+	<iostream>
+	<vector>
+	"Personaje.h"
+	"Enemygo.h"
+	"Fantasmita.h"
+	"bomba.h"
+	"Mina.h"
+	"Cocodrilo.h"
+	"SDL_mixer.h"
+
+1383372692 g:\labsemana2animacion\mina.h
+	"Enemygo.h"
+
+1383375756 source:g:\labsemana2animacion\mina.cpp
+	"Mina.h"
+
+1382750437 source:g:\labsemana2animacion\personaje.cpp
+	"Personaje.h"
+
+1383375819 source:c:\users\marginy\desktop\labsemana2animacion\bomba.cpp
+	"bomba.h"
+
+1383356395 c:\users\marginy\desktop\labsemana2animacion\bomba.h
+	"Enemygo.h"
+
+1383687581 c:\users\marginy\desktop\labsemana2animacion\enemygo.h
+	"SDL.h"
+	"SDL_image.h"
+	"Personaje.h"
+	<vector>
+
+1383684328 c:\users\marginy\desktop\labsemana2animacion\personaje.h
+	"SDL.h"
+	"SDL_image.h"
+	<string>
+	<vector>
+
+1383701910 source:c:\users\marginy\desktop\labsemana2animacion\cocodrilo.cpp
+	"Cocodrilo.h"
+
+1383373693 c:\users\marginy\desktop\labsemana2animacion\cocodrilo.h
+	"Enemygo.h"
+
+1383701786 source:c:\users\marginy\desktop\labsemana2animacion\enemygo.cpp
+	"Enemygo.h"
+
+1383701839 source:c:\users\marginy\desktop\labsemana2animacion\fantasmita.cpp
+	"Fantasmita.h"
+
+1383371900 c:\users\marginy\desktop\labsemana2animacion\fantasmita.h
+	"Enemygo.h"
+
+1383954472 source:c:\users\marginy\desktop\labsemana2animacion\main.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	<string>
+	<iostream>
+	<vector>
+	"Personaje.h"
+	"Enemygo.h"
+	"Fantasmita.h"
+	"bomba.h"
+	"Mina.h"
+	"Cocodrilo.h"
+	"SDL_mixer.h"
+
+1383372692 c:\users\marginy\desktop\labsemana2animacion\mina.h
+	"Enemygo.h"
+
+1383375756 source:c:\users\marginy\desktop\labsemana2animacion\mina.cpp
+	"Mina.h"
+
+1382750437 source:c:\users\marginy\desktop\labsemana2animacion\personaje.cpp
+	"Personaje.h"
+
